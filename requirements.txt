@@ -1,6 +1,5 @@
 streamlit
 qrcode
-PIL
 cv2
 math
 cryptography.fernet
