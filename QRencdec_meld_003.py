@@ -4,7 +4,7 @@ import qrcode
 from PIL import Image
 import cv2 as cv
 
-import math
+#import math
 from cryptography.fernet import Fernet
 import hashlib
 from datetime import datetime
