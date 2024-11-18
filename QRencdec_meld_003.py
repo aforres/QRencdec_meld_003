@@ -1,6 +1,6 @@
 # QRencdec_meld_003 20241111
 import streamlit as st
-import qrcode
+#import qrcode
 from PIL import Image
 import cv2 as cv
 
