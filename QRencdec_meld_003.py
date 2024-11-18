@@ -2,7 +2,7 @@
 import streamlit as st
 #import qrcode
 from PIL import Image
-import cv
+import cv2
 
 #import math
 from cryptography.fernet import Fernet
